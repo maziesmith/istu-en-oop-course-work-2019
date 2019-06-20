@@ -7,7 +7,7 @@ Variants:
 1. [Resizing](https://github.com/Nordth/istu-en-oop-course-work-2019/blob/master/variant1.md)
 2. [Color manipulations](https://github.com/Nordth/istu-en-oop-course-work-2019/blob/master/variant2.md)
 3. [Stiching](https://github.com/Nordth/istu-en-oop-course-work-2019/blob/master/variant3.md)
-4. [Stitching](https://github.com/Nordth/istu-en-oop-course-work-2019/blob/master/variant4.md)
+4. [Cutting](https://github.com/Nordth/istu-en-oop-course-work-2019/blob/master/variant4.md)
 5. [Postcard creator](https://github.com/Nordth/istu-en-oop-course-work-2019/blob/master/variant5.md)
 
 Task:
