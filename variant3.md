@@ -25,7 +25,7 @@ interface IStitchingJob{
 }
 
 interface IStitchingManager{
-  Bitmap Stitch(Bitmap input, IResizerJob job);
+  Bitmap Stitch(Bitmap input, IStitchingJob job);
 }
 
 ```
