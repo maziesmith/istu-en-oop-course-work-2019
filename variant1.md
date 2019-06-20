@@ -6,7 +6,7 @@
 ![Form](https://raw.githubusercontent.com/Nordth/istu-en-oop-course-work-2019/master/images/pic_variant1.png)
 
 
-2. __Add click event listener to "Open..." button__
+2. __Add click event listener to "Open file" button__
 -------------------------------
 
 This button should open [OpenFileDialog](https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/how-to-open-files-using-the-openfiledialog-component) which should accept images (bmp, png, jpeg)
