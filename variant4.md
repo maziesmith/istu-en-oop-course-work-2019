@@ -24,8 +24,8 @@ interface ICuttingJob{
 }
 
 interface ICuttingManager{
-  Bitmap Cut(Bitmap input, IResizerJob job);
-  Bitmap GetPreview(Bitmap input, IResizerJob job); // Should draw rectangle of cutting zone
+  Bitmap Cut(Bitmap input, ICuttingJob job);
+  Bitmap GetPreview(Bitmap input, ICuttingJob job); // Should draw rectangle of cutting zone
 }
 
 ```
