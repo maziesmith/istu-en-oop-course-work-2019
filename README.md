@@ -25,3 +25,4 @@ Helpful links
 -------------
 - [Tutorial how to create Windows Forms application](https://docs.microsoft.com/en-us/visualstudio/ide/tutorial-1-create-a-picture-viewer?view=vs-2019)
 - [Windows Forms controls](https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/windows-forms-controls-by-function)
+- [Graphics for new image](https://stackoverflow.com/a/10445101/2812475)
