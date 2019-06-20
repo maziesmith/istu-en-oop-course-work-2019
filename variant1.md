@@ -34,6 +34,8 @@ interface IResizerManager{
 
 `IResizerManager` - does all job of processing
 
+[How to crop and scale images](https://docs.microsoft.com/en-us/dotnet/framework/winforms/advanced/how-to-crop-and-scale-images)
+
 4. __Add click event listener to "Resize image" button__
 ---------------------------------------------
 
