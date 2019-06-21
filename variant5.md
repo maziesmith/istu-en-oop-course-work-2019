@@ -75,3 +75,4 @@ Report should consist of:
 - Description how you solve your task
 - UML class diagram
 - Code
+- Screenshot of the program
